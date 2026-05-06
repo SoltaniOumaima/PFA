@@ -1,0 +1,13 @@
+{
+  "name": "PFA Theme",
+  "dataColors": [
+    "#2E86C1",
+    "#E74C3C",
+    "#27AE60",
+    "#F1C40F",
+    "#8E44AD"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#2E86C1"
+}
